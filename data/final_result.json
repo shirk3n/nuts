@@ -28,7 +28,7 @@
       "properties": {
         "prefix": "ES",
         "country": "SPAIN2",
-        "city": "Comunidad de Madrid",
+        "city": "Madrid",
         "entryList": [
           {
             "name": "Colegio Virgen del Remedio",
@@ -39,6 +39,11 @@
             "name": "Colegio Humanitas Bilingual School Torrej\u00f3n",
             "web": "www.humanitastorrejon.com",
             "email": "cc.humanitas.torrejondeardoz@educa.madrid.org"
+          },
+          {
+            "name": "Colegio Cristo Rey",
+            "web": "http:// www.colegiocristorey.org",
+            "email": "info@colegiocristorey.org"
           }
         ]
       },
@@ -54,11 +59,11 @@
       "type": "Feature",
       "properties": {
         "prefix": "ES",
-        "country": "SPAIN4",
-        "city": "Madrid",
+        "country": "SPAIN5",
+        "city": "Cantabria",
         "entryList": [
           {
-            "name": "Colegio Cristo Rey",
+            "name": "Colegio Cristo Reyasd42345234563425345",
             "web": "http:// www.colegiocristorey.org",
             "email": "info@colegiocristorey.org"
           }
@@ -67,8 +72,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7119,
-          40.5008
+          -4.0606,
+          43.1875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "prefix": "ES",
+        "country": "SPAIN5",
+        "city": "Burgos",
+        "entryList": [
+          {
+            "name": "Mierda frita",
+            "web": "http:// www.colegiocristorey.org",
+            "email": "info@colegiocristorey.org"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5854,
+          42.346
         ]
       }
     }

@@ -37,8 +37,8 @@ def choose_geojson_file(key):
     print('\n')
     return(data)
 
-def data_geojson(df):
-    data_geojson = choose_geojson_file(df)
+def data_geojson(key):
+    data_geojson = choose_geojson_file(key)
     # Data of GEOJSON file
     nuts_names_json = {}
     for features in data_geojson['features']:
@@ -52,8 +52,10 @@ def data_geojson(df):
 def data_excel(df):
     # Create a data structure from excel file
     nuts_names_excel = {}
-    for index, row in df.iterrows():
+    final_df = sort_row_nut(df)
+    for index, row in final_df.iterrows():
         row_nut = row['NUTs']
+        # print(row_nut)
         value = nuts_names_excel.get(row_nut)
         if (value):
             value.append(row)
@@ -61,6 +63,21 @@ def data_excel(df):
             nuts_names_excel[row_nut] = [row]
     return (nuts_names_excel)
 
+def sort_row_nut(df):
+    row_nut_aux = ''
+    list_aux = []
+    for index, row in df.iterrows():
+        row_nut = row['NUTs']
+        if len(row_nut) == 5:
+            if row_nut[3] == '0' and row_nut[4] == '0':
+                row_nut_aux = row_nut
+
+    for index1, row1 in df.iterrows():
+        row_nut1 = row1['NUTs']
+        if row_nut_aux == row_nut1 + '0':
+            print('asdasd')
+            df['NUTs'].replace({row1['NUTs']:row_nut_aux},inplace=True)
+    return(df)
 
 def iter_excel_item(key, value):
     # data of each value needed
@@ -88,7 +105,6 @@ def create_json_kml(df):
 
     for key, value in nuts_names_excel.items():
         nuts_names_json = data_geojson(key)
-        # print(nuts_names_excel)
         for jsonId, jsonValue in nuts_names_json.items():
             if jsonId == key:
                 jsonFinal['features'] = {'type': 'Feature', 'properties':
@@ -124,3 +140,4 @@ if __name__ == '__main__':
     print('\n')
     df = pd.read_excel(PATH_EXCEL_FILE,skiprows=1,sheet_name=SHEET_NAME,dtype=COL_TYPES)
     create_json_kml(df)
+    print(sort_row_nut(df))
