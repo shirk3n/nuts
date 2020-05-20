@@ -2,7 +2,10 @@ import pandas as pd
 import json
 
 # geojson files
+PATH_GEOJSON_0 = '/Users/shirk3n/Documents/Programacion/nuts/data/NUTS_LB_2021_4326_LEVL_0.geojson'
+PATH_GEOJSON_1 = '/Users/shirk3n/Documents/Programacion/nuts/data/NUTS_LB_2021_4326_LEVL_1.geojson'
 PATH_GEOJSON_2 = '/Users/shirk3n/Documents/Programacion/nuts/data/NUTS_LB_2021_4326_LEVL_2.geojson'
+PATH_GEOJSON_3 = '/Users/shirk3n/Documents/Programacion/nuts/data/NUTS_LB_2021_4326_LEVL_3.geojson'
 
 # Excel file path
 PATH_EXCEL_FILE = '/Users/shirk3n/Documents/Programacion/nuts/data/Spain1.xlsx'
@@ -11,10 +14,31 @@ PATH_EXCEL_FILE = '/Users/shirk3n/Documents/Programacion/nuts/data/Spain1.xlsx'
 COL_TYPES = {"Country": str, "Name of School": str, "Website": str, "Official Email": str, "NUTs": str}
 SHEET_NAME = 'Sheet1'
 
+def choose_geojson_file(key):
+    length_nut = len(key)
+    #Choose the correct json file depending of the NUT's length
+    if length_nut == 2:
+        print('2')
+        with open(PATH_GEOJSON_0) as content:
+            data = json.load(content)
+    elif length_nut == 3:
+        print('3')
+        with open(PATH_GEOJSON_1) as content:
+            data = json.load(content)
+    elif length_nut == 4:
+        print('4')
+        with open(PATH_GEOJSON_2) as content:
+            data = json.load(content)
+    elif length_nut == 5:
+        print('5')
+        with open(PATH_GEOJSON_3) as content:
+            data = json.load(content)
+    # print(data)
+    print('\n')
+    return(data)
 
-def data_geojson():
-    with open(PATH_GEOJSON_2) as content:
-        data_geojson = json.load(content)
+def data_geojson(df):
+    data_geojson = choose_geojson_file(df)
     # Data of GEOJSON file
     nuts_names_json = {}
     for features in data_geojson['features']:
@@ -58,12 +82,13 @@ def create_json_kml(df):
     jsonFinal = {}
     list_feature = []
 
-    nuts_names_json = data_geojson()
     nuts_names_excel = data_excel(df)
 
     jsonFinal['type'] = 'FeatureCollection'
 
     for key, value in nuts_names_excel.items():
+        nuts_names_json = data_geojson(key)
+        # print(nuts_names_excel)
         for jsonId, jsonValue in nuts_names_json.items():
             if jsonId == key:
                 jsonFinal['features'] = {'type': 'Feature', 'properties':
@@ -82,7 +107,7 @@ def create_json_kml(df):
                     list_feature.append(features)
 
     jsonFinal['features'] = list_feature
-    print(jsonFinal)
+    # print(jsonFinal)
 
     print('\n')
 

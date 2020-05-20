@@ -49,6 +49,28 @@
           40.5008
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "prefix": "ES",
+        "country": "SPAIN4",
+        "city": "Madrid",
+        "entryList": [
+          {
+            "name": "Colegio Cristo Rey",
+            "web": "http:// www.colegiocristorey.org",
+            "email": "info@colegiocristorey.org"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7119,
+          40.5008
+        ]
+      }
     }
   ]
 }
