@@ -1,0 +1,2136 @@
+{
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "urn:ogc:def:crs:EPSG::4326"
+		}
+	},
+	"type" : "FeatureCollection",
+	"features" : [{
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [20.0708, 41.1389]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "AL",
+				"FID" : "AL0",
+				"NUTS_ID" : "AL0",
+				"NUTS_NAME" : "Shqip\u00ebria",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "AL0"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [15.8797, 48.1513]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "AT",
+				"FID" : "AT1",
+				"NUTS_ID" : "AT1",
+				"NUTS_NAME" : "Ost\u00f6sterreich",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "AT1"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [14.6061, 47.0797]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "AT",
+				"FID" : "AT2",
+				"NUTS_ID" : "AT2",
+				"NUTS_NAME" : "S\u00fcd\u00f6sterreich",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "AT2"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [12.2455, 47.2803]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "AT",
+				"FID" : "AT3",
+				"NUTS_ID" : "AT3",
+				"NUTS_NAME" : "West\u00f6sterreich",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "AT3"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [4.3569, 50.8401]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "BE",
+				"FID" : "BE1",
+				"NUTS_ID" : "BE1",
+				"NUTS_NAME" : "R\u00e9gion de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "BE1"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [4.9852, 51.1013]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "BE",
+				"FID" : "BE2",
+				"NUTS_ID" : "BE2",
+				"NUTS_NAME" : "Vlaams Gewest",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "BE2"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [4.8252, 50.4595]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "BE",
+				"FID" : "BE3",
+				"NUTS_ID" : "BE3",
+				"NUTS_NAME" : "R\u00e9gion wallonne",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "BE3"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [25.8853, 43.1525]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "BG",
+				"FID" : "BG3",
+				"NUTS_ID" : "BG3",
+				"NUTS_NAME" : "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u0438 \u044e\u0433\u043e\u0438\u0437\u0442\u043e\u0447\u043d\u0430 \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "BG3"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [24.1941, 42.1249]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "BG",
+				"FID" : "BG4",
+				"NUTS_ID" : "BG4",
+				"NUTS_NAME" : "\u042e\u0433\u043e\u0437\u0430\u043f\u0430\u0434\u043d\u0430 \u0438 \u044e\u0436\u043d\u0430 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "BG4"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [8.2129, 46.9548]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "CH",
+				"FID" : "CH0",
+				"NUTS_ID" : "CH0",
+				"NUTS_NAME" : "Schweiz/Suisse/Svizzera",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "CH0"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [33.1739, 35.0284]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "CY",
+				"FID" : "CY0",
+				"NUTS_ID" : "CY0",
+				"NUTS_NAME" : "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "CY0"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [15.3276, 49.7382]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "CZ",
+				"FID" : "CZ0",
+				"NUTS_ID" : "CZ0",
+				"NUTS_NAME" : "\u010cesko",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "CZ0"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [9.0509, 48.5342]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "DE",
+				"FID" : "DE1",
+				"NUTS_ID" : "DE1",
+				"NUTS_NAME" : "Baden-W\u00fcrttemberg",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "DE1"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [11.4213, 48.9474]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "DE",
+				"FID" : "DE2",
+				"NUTS_ID" : "DE2",
+				"NUTS_NAME" : "Bayern",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "DE2"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [13.4022, 52.5005]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "DE",
+				"FID" : "DE3",
+				"NUTS_ID" : "DE3",
+				"NUTS_NAME" : "Berlin",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "DE3"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [12.1381, 53.0836]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "DE",
+				"FID" : "DE4",
+				"NUTS_ID" : "DE4",
+				"NUTS_NAME" : "Brandenburg",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "DE4"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [8.7877, 53.1065]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "DE",
+				"FID" : "DE5",
+				"NUTS_ID" : "DE5",
+				"NUTS_NAME" : "Bremen",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "DE5"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [10.01, 53.5392]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "DE",
+				"FID" : "DE6",
+				"NUTS_ID" : "DE6",
+				"NUTS_NAME" : "Hamburg",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "DE6"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [9.0325, 50.6006]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "DE",
+				"FID" : "DE7",
+				"NUTS_ID" : "DE7",
+				"NUTS_NAME" : "Hessen",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "DE7"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [12.4675, 53.7138]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "DE",
+				"FID" : "DE8",
+				"NUTS_ID" : "DE8",
+				"NUTS_NAME" : "Mecklenburg-Vorpommern",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "DE8"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [9.1837, 52.7621]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "DE",
+				"FID" : "DE9",
+				"NUTS_ID" : "DE9",
+				"NUTS_NAME" : "Niedersachsen",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "DE9"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [7.5507, 51.4749]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "DE",
+				"FID" : "DEA",
+				"NUTS_ID" : "DEA",
+				"NUTS_NAME" : "Nordrhein-Westfalen",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "DEA"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [7.9074, 49.5093]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "DE",
+				"FID" : "DEB",
+				"NUTS_ID" : "DEB",
+				"NUTS_NAME" : "Rheinland-Pfalz",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "DEB"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [6.957, 49.3922]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "DE",
+				"FID" : "DEC",
+				"NUTS_ID" : "DEC",
+				"NUTS_NAME" : "Saarland",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "DEC"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [13.3332, 51.0583]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "DE",
+				"FID" : "DED",
+				"NUTS_ID" : "DED",
+				"NUTS_NAME" : "Sachsen",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "DED"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [11.6996, 52.011]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "DE",
+				"FID" : "DEE",
+				"NUTS_ID" : "DEE",
+				"NUTS_NAME" : "Sachsen-Anhalt",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "DEE"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [9.8212, 54.0804]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "DE",
+				"FID" : "DEF",
+				"NUTS_ID" : "DEF",
+				"NUTS_NAME" : "Schleswig-Holstein",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "DEF"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [11.0218, 50.9044]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "DE",
+				"FID" : "DEG",
+				"NUTS_ID" : "DEG",
+				"NUTS_NAME" : "Th\u00fcringen",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "DEG"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [9.3193, 56.0271]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "DK",
+				"FID" : "DK0",
+				"NUTS_ID" : "DK0",
+				"NUTS_NAME" : "Danmark",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "DK0"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [25.8548, 58.6709]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "EE",
+				"FID" : "EE0",
+				"NUTS_ID" : "EE0",
+				"NUTS_NAME" : "Eesti",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "EE0"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [23.8114, 38.0548]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "EL",
+				"FID" : "EL3",
+				"NUTS_ID" : "EL3",
+				"NUTS_NAME" : "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "EL3"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [24.8224, 35.2248]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "EL",
+				"FID" : "EL4",
+				"NUTS_ID" : "EL4",
+				"NUTS_NAME" : "\u039d\u03b7\u03c3\u03b9\u03ac \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, \u039a\u03c1\u03ae\u03c4\u03b7",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "EL4"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [23.3044, 40.7986]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "EL",
+				"FID" : "EL5",
+				"NUTS_ID" : "EL5",
+				"NUTS_NAME" : "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "EL5"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [22.198, 39.0501]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "EL",
+				"FID" : "EL6",
+				"NUTS_ID" : "EL6",
+				"NUTS_NAME" : "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "EL6"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-7.6953, 42.8192]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "ES",
+				"FID" : "ES1",
+				"NUTS_ID" : "ES1",
+				"NUTS_NAME" : "Noroeste",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "ES1"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-1.1301, 41.8962]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "ES",
+				"FID" : "ES2",
+				"NUTS_ID" : "ES2",
+				"NUTS_NAME" : "Noreste",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "ES2"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-3.7119, 40.5008]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "ES",
+				"FID" : "ES3",
+				"NUTS_ID" : "ES3",
+				"NUTS_NAME" : "Comunidad de Madrid",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "ES3"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-5.8894, 40.5556]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "ES",
+				"FID" : "ES4",
+				"NUTS_ID" : "ES4",
+				"NUTS_NAME" : "Centro (ES)",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "ES4"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [2.0051, 41.8473]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "ES",
+				"FID" : "ES5",
+				"NUTS_ID" : "ES5",
+				"NUTS_NAME" : "Este",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "ES5"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-4.261, 37.5155]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "ES",
+				"FID" : "ES6",
+				"NUTS_ID" : "ES6",
+				"NUTS_NAME" : "Sur",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "ES6"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-16.5646, 28.2457]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "ES",
+				"FID" : "ES7",
+				"NUTS_ID" : "ES7",
+				"NUTS_NAME" : "Canarias",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "ES7"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [26.2795, 64.4974]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "FI",
+				"FID" : "FI1",
+				"NUTS_ID" : "FI1",
+				"NUTS_NAME" : "Manner-Suomi",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "FI1"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [20.0931, 60.2653]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "FI",
+				"FID" : "FI2",
+				"NUTS_ID" : "FI2",
+				"NUTS_NAME" : "\u00c5land",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "FI2"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [2.5234, 48.7196]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "FR",
+				"FID" : "FR1",
+				"NUTS_ID" : "FR1",
+				"NUTS_NAME" : "Ile-de-France",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "FR1"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [1.6776, 47.4811]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "FR",
+				"FID" : "FRB",
+				"NUTS_ID" : "FRB",
+				"NUTS_NAME" : "Centre \u2014 Val de Loire",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "FRB"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [4.8083, 47.2297]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "FR",
+				"FID" : "FRC",
+				"NUTS_ID" : "FRC",
+				"NUTS_NAME" : "Bourgogne-Franche-Comt\u00e9",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "FRC"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [0.0112, 48.8652]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "FR",
+				"FID" : "FRD",
+				"NUTS_ID" : "FRD",
+				"NUTS_NAME" : "Normandie",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "FRD"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [2.7686, 49.9703]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "FR",
+				"FID" : "FRE",
+				"NUTS_ID" : "FRE",
+				"NUTS_NAME" : "Hauts-de-France",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "FRE"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [5.6267, 48.6914]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "FR",
+				"FID" : "FRF",
+				"NUTS_ID" : "FRF",
+				"NUTS_NAME" : "Grand Est",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "FRF"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.7959, 47.4936]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "FR",
+				"FID" : "FRG",
+				"NUTS_ID" : "FRG",
+				"NUTS_NAME" : "Pays de la Loire",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "FRG"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-2.7883, 48.1657]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "FR",
+				"FID" : "FRH",
+				"NUTS_ID" : "FRH",
+				"NUTS_NAME" : "Bretagne",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "FRH"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [0.3897, 45.4822]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "FR",
+				"FID" : "FRI",
+				"NUTS_ID" : "FRI",
+				"NUTS_NAME" : "Nouvelle-Aquitaine",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "FRI"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [2.1442, 43.707]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "FR",
+				"FID" : "FRJ",
+				"NUTS_ID" : "FRJ",
+				"NUTS_NAME" : "Occitanie",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "FRJ"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [4.5927, 45.2815]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "FR",
+				"FID" : "FRK",
+				"NUTS_ID" : "FRK",
+				"NUTS_NAME" : "Auvergne-Rh\u00f4ne-Alpes",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "FRK"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [6.0641, 43.9629]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "FR",
+				"FID" : "FRL",
+				"NUTS_ID" : "FRL",
+				"NUTS_NAME" : "Provence-Alpes-C\u00f4te d\u2019Azur",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "FRL"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [9.0976, 42.1267]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "FR",
+				"FID" : "FRM",
+				"NUTS_ID" : "FRM",
+				"NUTS_NAME" : "Corse",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "FRM"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-53.2263, 3.9221]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "FR",
+				"FID" : "FRY",
+				"NUTS_ID" : "FRY",
+				"NUTS_NAME" : "RUP FR \u2014 R\u00e9gions Ultrap\u00e9riph\u00e9riques Fran\u00e7aises",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "FRY"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [16.4894, 43.756]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "HR",
+				"FID" : "HR0",
+				"NUTS_ID" : "HR0",
+				"NUTS_NAME" : "Hrvatska",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "HR0"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [19.3111, 47.4258]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "HU",
+				"FID" : "HU1",
+				"NUTS_ID" : "HU1",
+				"NUTS_NAME" : "K\u00f6z\u00e9p-Magyarorsz\u00e1g",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "HU1"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [17.7321, 46.8766]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "HU",
+				"FID" : "HU2",
+				"NUTS_ID" : "HU2",
+				"NUTS_NAME" : "Dun\u00e1nt\u00fal",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "HU2"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [20.8493, 47.3933]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "HU",
+				"FID" : "HU3",
+				"NUTS_ID" : "HU3",
+				"NUTS_NAME" : "Alf\u00f6ld \u00e9s \u00c9szak",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "HU3"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-8.0902, 53.1794]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "IE",
+				"FID" : "IE0",
+				"NUTS_ID" : "IE0",
+				"NUTS_NAME" : "Ireland",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "IE0"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-18.8569, 64.756]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "IS",
+				"FID" : "IS0",
+				"NUTS_ID" : "IS0",
+				"NUTS_NAME" : "\u00cdsland",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "IS0"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [8.7282, 45.2602]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "IT",
+				"FID" : "ITC",
+				"NUTS_ID" : "ITC",
+				"NUTS_NAME" : "Nord-Ovest",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "ITC"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [15.5982, 40.7741]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "IT",
+				"FID" : "ITF",
+				"NUTS_ID" : "ITF",
+				"NUTS_NAME" : "Sud",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "ITF"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [14.1658, 37.5704]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "IT",
+				"FID" : "ITG",
+				"NUTS_ID" : "ITG",
+				"NUTS_NAME" : "Isole",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "ITG"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [11.5837, 45.5007]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "IT",
+				"FID" : "ITH",
+				"NUTS_ID" : "ITH",
+				"NUTS_NAME" : "Nord-Est",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "ITH"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [12.1426, 42.9451]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "IT",
+				"FID" : "ITI",
+				"NUTS_ID" : "ITI",
+				"NUTS_NAME" : "Centro (IT)",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "ITI"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [9.5534, 47.1383]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "LI",
+				"FID" : "LI0",
+				"NUTS_ID" : "LI0",
+				"NUTS_NAME" : "Liechtenstein",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "LI0"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [23.9197, 55.3351]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "LT",
+				"FID" : "LT0",
+				"NUTS_ID" : "LT0",
+				"NUTS_NAME" : "Lietuva",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "LT0"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [6.0943, 49.771]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "LU",
+				"FID" : "LU0",
+				"NUTS_ID" : "LU0",
+				"NUTS_NAME" : "Luxembourg",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "LU0"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [26.382, 56.6829]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "LV",
+				"FID" : "LV0",
+				"NUTS_ID" : "LV0",
+				"NUTS_NAME" : "Latvija",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "LV0"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [19.269, 42.7721]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "ME",
+				"FID" : "ME0",
+				"NUTS_ID" : "ME0",
+				"NUTS_NAME" : "\u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "ME0"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [21.6966, 41.5981]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "MK",
+				"FID" : "MK0",
+				"NUTS_ID" : "MK0",
+				"NUTS_NAME" : "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "MK0"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [14.4312, 35.886]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "MT",
+				"FID" : "MT0",
+				"NUTS_ID" : "MT0",
+				"NUTS_NAME" : "Malta",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "MT0"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [6.3039, 53.0445]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "NL",
+				"FID" : "NL1",
+				"NUTS_ID" : "NL1",
+				"NUTS_NAME" : "Noord-Nederland",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "NL1"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [5.9995, 52.2953]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "NL",
+				"FID" : "NL2",
+				"NUTS_ID" : "NL2",
+				"NUTS_NAME" : "Oost-Nederland",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "NL2"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [4.7278, 52.1805]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "NL",
+				"FID" : "NL3",
+				"NUTS_ID" : "NL3",
+				"NUTS_NAME" : "West-Nederland",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "NL3"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [5.4154, 51.4562]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "NL",
+				"FID" : "NL4",
+				"NUTS_ID" : "NL4",
+				"NUTS_NAME" : "Zuid-Nederland",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "NL4"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [19.6955, 50.0734]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "PL",
+				"FID" : "PL2",
+				"NUTS_ID" : "PL2",
+				"NUTS_NAME" : "Makroregion po\u0142udniowy",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "PL2"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [16.2697, 52.7258]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "PL",
+				"FID" : "PL4",
+				"NUTS_ID" : "PL4",
+				"NUTS_NAME" : "Makroregion p\u00f3\u0142nocno-zachodni",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "PL4"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [16.8902, 50.959]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "PL",
+				"FID" : "PL5",
+				"NUTS_ID" : "PL5",
+				"NUTS_NAME" : "Makroregion po\u0142udniowo-zachodni",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "PL5"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [18.2223, 53.6879]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "PL",
+				"FID" : "PL6",
+				"NUTS_ID" : "PL6",
+				"NUTS_NAME" : "Makroregion p\u00f3\u0142nocny",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "PL6"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [19.9395, 51.2825]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "PL",
+				"FID" : "PL7",
+				"NUTS_ID" : "PL7",
+				"NUTS_NAME" : "Makroregion centralny",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "PL7"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [22.6288, 50.58]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "PL",
+				"FID" : "PL8",
+				"NUTS_ID" : "PL8",
+				"NUTS_NAME" : "Makroregion wschodni",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "PL8"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [21.0921, 52.3675]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "PL",
+				"FID" : "PL9",
+				"NUTS_ID" : "PL9",
+				"NUTS_NAME" : "Makroregion wojew\u00f3dztwo mazowieckie",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "PL9"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-7.9703, 39.6868]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "PT",
+				"FID" : "PT1",
+				"NUTS_ID" : "PT1",
+				"NUTS_NAME" : "Continente",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "PT1"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-25.3659, 37.7846]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "PT",
+				"FID" : "PT2",
+				"NUTS_ID" : "PT2",
+				"NUTS_NAME" : "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "PT2"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-16.9503, 32.7326]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "PT",
+				"FID" : "PT3",
+				"NUTS_ID" : "PT3",
+				"NUTS_NAME" : "Regi\u00e3o Aut\u00f3noma da Madeira",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "PT3"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [24.0679, 46.7109]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "RO",
+				"FID" : "RO1",
+				"NUTS_ID" : "RO1",
+				"NUTS_NAME" : "Macroregiunea Unu",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "RO1"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [27.2368, 46.1422]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "RO",
+				"FID" : "RO2",
+				"NUTS_ID" : "RO2",
+				"NUTS_NAME" : "Macroregiunea Doi",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "RO2"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [25.8887, 44.5999]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "RO",
+				"FID" : "RO3",
+				"NUTS_ID" : "RO3",
+				"NUTS_NAME" : "Macroregiunea Trei",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "RO3"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [22.793, 45.1822]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "RO",
+				"FID" : "RO4",
+				"NUTS_ID" : "RO4",
+				"NUTS_NAME" : "Macroregiunea Patru",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "RO4"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [20.1296, 45.3065]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "RS",
+				"FID" : "RS1",
+				"NUTS_ID" : "RS1",
+				"NUTS_NAME" : "\u0421\u0440\u0431\u0438\u0458\u0430 - \u0441\u0435\u0432\u0435\u0440",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "RS1"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [21.1282, 43.7155]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "RS",
+				"FID" : "RS2",
+				"NUTS_ID" : "RS2",
+				"NUTS_NAME" : "\u0421\u0440\u0431\u0438\u0458\u0430 - \u0458\u0443\u0433",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "RS2"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [16.3811, 59.264]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "SE",
+				"FID" : "SE1",
+				"NUTS_ID" : "SE1",
+				"NUTS_NAME" : "\u00d6stra Sverige",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "SE1"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [13.8937, 57.4031]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "SE",
+				"FID" : "SE2",
+				"NUTS_ID" : "SE2",
+				"NUTS_NAME" : "S\u00f6dra Sverige",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "SE2"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [17.9907, 65.4426]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "SE",
+				"FID" : "SE3",
+				"NUTS_ID" : "SE3",
+				"NUTS_NAME" : "Norra Sverige",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "SE3"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [14.8169, 46.1277]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "SI",
+				"FID" : "SI0",
+				"NUTS_ID" : "SI0",
+				"NUTS_NAME" : "Slovenija",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "SI0"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [19.4741, 48.7042]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "SK",
+				"FID" : "SK0",
+				"NUTS_ID" : "SK0",
+				"NUTS_NAME" : "Slovensko",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "SK0"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [28.4372, 41.2186]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "TR",
+				"FID" : "TR1",
+				"NUTS_ID" : "TR1",
+				"NUTS_NAME" : "\u0130stanbul",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "TR1"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [27.5552, 39.8295]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "TR",
+				"FID" : "TR2",
+				"NUTS_ID" : "TR2",
+				"NUTS_NAME" : "Bat\u0131 Marmara",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "TR2"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [28.9162, 38.3116]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "TR",
+				"FID" : "TR3",
+				"NUTS_ID" : "TR3",
+				"NUTS_NAME" : "Ege",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "TR3"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [30.4583, 40.2257]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "TR",
+				"FID" : "TR4",
+				"NUTS_ID" : "TR4",
+				"NUTS_NAME" : "Do\u011fu Marmara",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "TR4"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [32.6695, 38.5109]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "TR",
+				"FID" : "TR5",
+				"NUTS_ID" : "TR5",
+				"NUTS_NAME" : "Bat\u0131 Anadolu",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "TR5"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [33.4793, 36.5454]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "TR",
+				"FID" : "TR6",
+				"NUTS_ID" : "TR6",
+				"NUTS_NAME" : "Akdeniz",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "TR6"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [35.6542, 39.1198]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "TR",
+				"FID" : "TR7",
+				"NUTS_ID" : "TR7",
+				"NUTS_NAME" : "Orta Anadolu",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "TR7"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [34.5682, 40.997]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "TR",
+				"FID" : "TR8",
+				"NUTS_ID" : "TR8",
+				"NUTS_NAME" : "Bat\u0131 Karadeniz",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "TR8"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [39.6499, 40.7675]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "TR",
+				"FID" : "TR9",
+				"NUTS_ID" : "TR9",
+				"NUTS_NAME" : "Do\u011fu Karadeniz",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "TR9"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [41.8165, 40.0453]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "TR",
+				"FID" : "TRA",
+				"NUTS_ID" : "TRA",
+				"NUTS_NAME" : "Kuzeydo\u011fu Anadolu",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "TRA"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [42.9302, 38.4148]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "TR",
+				"FID" : "TRB",
+				"NUTS_ID" : "TRB",
+				"NUTS_NAME" : "Ortado\u011fu Anadolu",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "TRB"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [39.9543, 37.5691]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "TR",
+				"FID" : "TRC",
+				"NUTS_ID" : "TRC",
+				"NUTS_NAME" : "G\u00fcneydo\u011fu Anadolu",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "TRC"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-1.8954, 55.0288]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "UK",
+				"FID" : "UKC",
+				"NUTS_ID" : "UKC",
+				"NUTS_NAME" : "North East (England)",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "UKC"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-3.1445, 54.5081]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "UK",
+				"FID" : "UKD",
+				"NUTS_ID" : "UKD",
+				"NUTS_NAME" : "North West (England)",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "UKD"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-1.2945, 53.9865]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "UK",
+				"FID" : "UKE",
+				"NUTS_ID" : "UKE",
+				"NUTS_NAME" : "Yorkshire and the Humber",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "UKE"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.8249, 52.9216]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "UK",
+				"FID" : "UKF",
+				"NUTS_ID" : "UKF",
+				"NUTS_NAME" : "East Midlands (England)",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "UKF"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-2.2577, 52.4833]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "UK",
+				"FID" : "UKG",
+				"NUTS_ID" : "UKG",
+				"NUTS_NAME" : "West Midlands (England)",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "UKG"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [0.5219, 52.2646]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "UK",
+				"FID" : "UKH",
+				"NUTS_ID" : "UKH",
+				"NUTS_NAME" : "East of England",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "UKH"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.0983, 51.4149]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "UK",
+				"FID" : "UKI",
+				"NUTS_ID" : "UKI",
+				"NUTS_NAME" : "London",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "UKI"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-1.125, 51.4257]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "UK",
+				"FID" : "UKJ",
+				"NUTS_ID" : "UKJ",
+				"NUTS_NAME" : "South East (England)",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "UKJ"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-2.4879, 51.2108]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "UK",
+				"FID" : "UKK",
+				"NUTS_ID" : "UKK",
+				"NUTS_NAME" : "South West (England)",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "UKK"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-3.6942, 52.3015]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "UK",
+				"FID" : "UKL",
+				"NUTS_ID" : "UKL",
+				"NUTS_NAME" : "Wales",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "UKL"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-4.0265, 56.5484]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "UK",
+				"FID" : "UKM",
+				"NUTS_ID" : "UKM",
+				"NUTS_NAME" : "Scotland",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "UKM"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-6.6253, 54.6306]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "UK",
+				"FID" : "UKN",
+				"NUTS_ID" : "UKN",
+				"NUTS_NAME" : "Northern Ireland",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "UKN"
+		}, {
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [24.5344, 69.6722]
+			},
+			"type" : "Feature",
+			"properties" : {
+				"COAST_TYPE" : null,
+				"MOUNT_TYPE" : null,
+				"CNTR_CODE" : "NO",
+				"FID" : "NO0",
+				"NUTS_ID" : "NO0",
+				"NUTS_NAME" : "Norge",
+				"LEVL_CODE" : 1,
+				"URBN_TYPE" : null
+			},
+			"id" : "NO0"
+		}
+	]
+}

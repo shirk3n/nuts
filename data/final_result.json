@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "prefix": "ES",
+        "country": "SPAIN1",
+        "city": "Illes Balears",
+        "entryList": [
+          {
+            "name": "CC Sant Bonaventura",
+            "web": "www.santbonaventura.org",
+            "email": "direccio@santbonaventura.org"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9634,
+          39.6075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "prefix": "ES",
+        "country": "SPAIN2",
+        "city": "Comunidad de Madrid",
+        "entryList": [
+          {
+            "name": "Colegio Virgen del Remedio",
+            "web": "http://colegiotrinitarias.com/",
+            "email": "info@colegiotrinitarias.com"
+          },
+          {
+            "name": "Colegio Humanitas Bilingual School Torrej\u00f3n",
+            "web": "www.humanitastorrejon.com",
+            "email": "cc.humanitas.torrejondeardoz@educa.madrid.org"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7119,
+          40.5008
+        ]
+      }
+    }
+  ]
+}
