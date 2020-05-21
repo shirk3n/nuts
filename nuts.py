@@ -8,7 +8,7 @@ PATH_GEOJSON_2 = 'data/NUTS_LB_2021_4326_LEVL_2.geojson'
 PATH_GEOJSON_3 = 'data/NUTS_LB_2021_4326_LEVL_3.geojson'
 
 # Excel file path
-PATH_EXCEL_FILE = 'data/Spain1.xlsx'
+PATH_EXCEL_FILE = 'data/Spain.xlsx'
 
 # Read the xlsx file
 COL_TYPES = {"Country": str, "Name of School": str, "Website": str, "Official Email": str, "NUTs": str}
