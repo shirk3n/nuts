@@ -7,3 +7,6 @@ Script in python that aims to return a JSON file (excel file and NUTs-JSON as a 
 >pip install xlrd
 
 >pip install xlsxwriter
+
+
+### **Go to nuts/data and open the json files to check the interactive maps**
