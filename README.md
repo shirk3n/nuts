@@ -9,4 +9,7 @@ Script in python that aims to return a JSON file (excel file and NUTs-JSON as a 
 >pip install xlsxwriter
 
 
-### **Go to nuts/data and open the json files to check the interactive maps**
+### ** > Go to nuts/data and open the json files to check the interactive maps**
+
+### GEOJSON MAP:
+![geojson image map](https://github.com/shirk3n/nuts/blob/master/data/geojson%20map.png)
