@@ -1,0 +1,99 @@
+{
+	"countriesLabels": [{
+			"lang": "BG",
+			"label": ["Австрия", "Белгия", "България", "Кипър", "Чешка република", "Германия", "Дания", "Естония", "Гърция", "Испания", "Финландия", "Франция", "Хърватия", "Унгария", "Ирландия", "Италия", "Литва", "Люксембург", "Латвия", "Малта", "Нидерландия", "Полша", "Португалия", "Румъния", "Швеция", "Словения", "Словакия"]
+		},
+		{
+			"lang": "CS",
+			"label": ["Rakousko", "Belgie", "Bulharsko", "Kypr", "Česká republika", "Německo", "Dánsko", "Estonsko", "Řecko", "Španělsko", "Finsko", "Francie", "Chorvatsko", "Maďarsko", "Irsko", "Itálie", "Litva", "Lucembursko", "Lotyšsko", "Malta", "Nizozemí", "Polsko", "Portugalsko", "Rumunsko", "Švédsko", "Slovinsko", "Slovensko"]
+		},
+		{
+			"lang": "DA",
+			"label": ["Østrig", "Belgien", "Bulgarien", "Cypern", "Tjekkiet", "Tyskland", "Danmark", "Estland", "Grækenland", "Spanien", "Finland", "Frankrig", "Kroatien", "Ungarn", "Irland", "Italien", "Litauen", "Luxembourg", "Letland", "Malta", "Holland", "Polen", "Portugal", "Rumænien", "Sverige", "Slovenien", "Slovakiet"]
+		},
+		{
+			"lang": "DE",
+			"label": ["Österreich", "Belgien", "Bulgarien", "Zypern", "Tschechische Republik", "Deutschland", "Dänemark", "Estland", "Griechenland", "Spanien", "Finnland", "Frankreich", "Kroatien", "Ungarn", "Irland", "Italien", "Litauen", "Luxemburg", "Lettland", "Malta", "Niederlande", "Polen", "Portugal", "Rumänien", "Schweden", "Slowenien", "Slowakei"]
+		},
+		{
+			"lang": "EL",
+			"label": ["Αυστρία", "Βέλγιο", "Βουλγαρία", "Κύπρος", "Τσεχική Δημοκρατία", "Γερμανία", "Δανία", "Εσθονία", "Ελλάς", "Ισπανία", "Φινλανδία", "Γαλλία", "Κροατία", "Ουγγαρία", "Ιρλανδία", "Ιταλία", "Λιθουανία", "Λουξεμβούργο", "Λεττονία", "Μάλτα", "Ολλανδία", "Πολωνία", "Πορτογαλία", "Ρουμανία", "Σουηδία", "Σλοβενία", "Σλοβακία"]
+		},
+		{
+			"lang": "EN",
+			"label": ["Austria", "Belgium", "Bulgaria", "Cyprus", "Czech Republic", "Germany", "Denmark", "Estonia", "Greece", "Spain", "Finland", "France", "Croatia", "Hungary", "Ireland", "Italy", "Lithuania", "Luxembourg", "Latvia", "Malta", "Netherlands", "Poland", "Portugal", "Romania", "Sweden", "Slovenia", "Slovakia"]
+		},
+		{
+			"lang": "ES",
+			"label": ["Austria", "Bélgica", "Bulgaria", "Chipre", "República Checa", "Alemania", "Dinamarca", "Estonia", "Grecia", "España", "Finlandia", "Francia", "Croacia", "Hungría", "Irlanda", "Italia", "Lituania", "Luxemburgo", "Letonia", "Malta", "Países Bajos", "Polonia", "Portugal", "Rumanía", "Suecia", "Eslovenia", "Eslovaquia"]
+		},
+		{
+			"lang": "ET",
+			"label": ["Austria", "Belgia", "Bulgaaria", "Küpros", "Tšehhi Vabariik", "Saksamaa", "Taani", "Eesti", "Kreeka", "Hispaania", "Soome", "Prantsusmaa", "Horvaatia", "Ungari", "Iirimaa", "Itaalia", "Leedu", "Luksemburg", "Läti", "Malta", "Madalmaad", "Poola", "Portugal", "Rumeenia", "Rootsi", "Sloveenia", "Slovakkia"]
+		},
+		{
+			"lang": "FI",
+			"label": ["Itävalta", "Belgia", "Bulgaria", "Kypros", "Tšekin tasavalta", "Saksa", "Tanska", "Viro", "Kreikka", "Espanja", "Suomi", "Ranska", "Kroatia", "Unkari", "Irlanti", "Italia", "Liettua", "Luxemburg", "Latvia", "Malta", "Alankomaat", "Puola", "Portugali", "Romania", "Ruotsi", "Slovenia", "Slovakia"]
+		},
+		{
+			"lang": "FR",
+			"label": ["Autriche", "Belgique", "Bulgarie", "Chypre", "République Tchèque", "Allemagne", "Danemark", "Estonie", "Grèce", "Espagne", "Finlande", "France", "Croatie", "Hongrie", "Irlande", "Italie", "Lituanie", "Luxembourg", "Lettonie", "Malte", "Pays-Bas", "Pologne", "Portugal", "Roumanie", "Suède", "Slovénie", "Slovaquie"]
+		},
+		{
+			"lang": "GA",
+			"label": ["An Ostair", "An Bheilg", "An Bhulgáir", "An Chipir", "Poblacht na Seice", "An Ghearmáin", "An Danmhairg", "An Eastóin", "An Ghréig", "An Spáinn", "An Fhionlainn", "An Fhrainc", "An Chróit", "An Ungáir", "Éire", "An Iodáil", "An Liotuáin", "Lucsamburg", "An Laitvia", "Málta", "An Ísiltír", "An Pholainn", "An Phortaingéil", "An Rómáin", "An tSualainn", "An tSlóivéin", "An tSlóvaic"]
+		},
+		{
+			"lang": "HR",
+			"label": ["Austrija", "Belgija", "Bugarska", "Cipar", "Češka Republika", "Njemačka", "Danska", "Estonija", "Grčka", "Španjolska", "Finska", "Francuska", "Hrvatska", "Mađarska", "Irska", "Italija", "Litva", "Luxembourg", "Latvija", "Malta", "Nizozemska", "Poljska", "Portugal", "Rumunjska", "Švedska", "Slovenija", "Slovačka"]
+		},
+		{
+			"lang": "HU",
+			"label": ["Ausztria", "Belgium", "Bulgária", "Ciprus", "Csehország", "Németország", "Dánia", "Észtország", "Görögország", "Spanyolország", "Finnország", "Franciaország", "Horvátország", "Magyarország", "Írország", "Olaszország", "Litvánia", "Luxemburg", "Lettország", "Málta", "Hollandia", "Lengyelország", "Portugália", "Románia", "Svédország", "Szlovénia", "Szlovákia"]
+		},
+		{
+			"lang": "IT",
+			"label": ["Austria", "Belgio", "Bulgaria", "Cipro", "Repubblica ceca", "Germania", "Danimarca", "Estonia", "Grecia", "Spagna", "Finlandia", "Francia", "Croazia", "Ungheria", "Irlanda", "Italia", "Lituania", "Lussemburgo", "Lettonia", "Malta", "Paesi Bassi", "Polonia", "Portogallo", "Romania", "Svezia", "Slovenia", "Slovacchia"]
+		},
+		{
+			"lang": "LT",
+			"label": ["Austrija", "Belgija", "Bulgarija", "Kipras", "Čekija", "Vokietija", "Danija", "Estija", "Graikija", "Ispanija", "Suomija", "Prancūzija", "Kroatija", "Vengrija", "Airija", "Italija", "Lietuva", "Liuksemburgas", "Latvija", "Malta", "Nyderlandai", "Lenkija", "Portugalija", "Rumunija", "Švedija", "Slovėnija", "Slovakija"]
+		},
+		{
+			"lang": "LV",
+			"label": ["Austrija", "Beļģija", "Bulgārija", "Kipra", "Čehijas Republika", "Vācija", "Dānija", "Igaunija", "Grieķija", "Spānija", "Somija", "Francija", "Horvātija", "Ungārija", "Īrija", "Itālija", "Lietuva", "Luksemburga", "Latvija", "Malta", "Nīderlande", "Polija", "Portugāle", "Rumānija", "Zviedrija", "Slovēnija", "Slovākija"]
+		},
+		{
+			"lang": "MT",
+			"label": ["L-Awstrija", "Il-Belġju", "Bulgarija", "Ċipru", "Ir-Repubblika Ċeka", "Il-Ġermanja", "Id-Danimarka", "L-Estonja", "Il-Greċja", "Spanja", "Il-Finlandja", "Franza", "il-Kroazja", "L-Ungerija", "L-Irlanda", "L-Italja", "Il-Litwanja", "Il-Lussemburgu", "Il-Latvja", "Malta", "L-Olanda", "Il-Polonja", "Il-Portugall", "Rumanija", "L-Isvezja", "L-Islovenja", "L-Islovakkja"]
+		},
+		{
+			"lang": "NL",
+			"label": ["Oostenrijk", "België", "Bulgarije", "Cyprus", "Tsjechië", "Duitsland", "Denemarken", "Estland", "Griekenland", "Spanje", "Finland", "Frankrijk", "Kroatië", "Hongarije", "Ierland", "Italië", "Litouwen", "Luxemburg", "Letland", "Malta", "Nederland", "Polen", "Portugal", "Roemenië", "Zweden", "Slovenië", "Slowakije"]
+		},
+		{
+			"lang": "PL",
+			"label": ["Austria", "Belgia", "Bułgaria", "Cypr", "Czechy", "Niemcy", "Dania", "Estonia", "Grecja", "Hiszpania", "Finlandia", "Francja", "Chorwacja", "Węgry", "Irlandia", "Włochy", "Litwa", "Luksemburg", "Łotwa", "Malta", "Holandia", "Polska", "Portugalia", "Rumunia", "Szwecja", "Słowenia", "Słowacja"]
+		},
+		{
+			"lang": "PT",
+			"label": ["Áustria", "Bélgica", "Bulgária", "Chipre", "República Checa", "Alemanha", "Dinamarca", "Estónia", "Grécia", "Espanha", "Finlândia", "França", "Croácia", "Hungria", "Irlanda", "Itália", "Lituânia", "Luxemburgo", "Letónia", "Malta", "Países Baixos", "Polónia", "Portugal", "Roménia", "Suécia", "Eslovénia", "Eslováquia"]
+		},
+		{
+			"lang": "RO",
+			"label": ["Austria", "Belgia", "Bulgaria", "Cipru", "Republica Cehă", "Germania", "Danemarca", "Estonia", "Grecia", "Spania", "Finlanda", "Franţa", "Croaţia", "Ungaria", "Irlanda", "Italia", "Lituania", "Luxemburg", "Letonia", "Malta", "Ţările de Jos", "Polonia", "Portugalia", "România", "Suedia", "Slovenia", "Slovacia"]
+		},
+		{
+			"lang": "SK",
+			"label": ["Rakúsko", "Belgicko", "Bulharsko", "Cyprus", "Česká republika", "Nemecko", "Dánsko", "Estónsko", "Grécko", "Španielsko", "Fínsko", "Francúzsko", "Chorvátsko", "Maďarsko", "Írsko", "Taliansko", "Litva", "Luxembursko", "Lotyšsko", "Malta", "Holandsko", "Poľsko", "Portugalsko", "Rumunsko", "Švédsko", "Slovinsko", "Slovenská republika"]
+		},
+		{
+			"lang": "SL",
+			"label": ["Avstrija", "Belgija", "Bolgarija", "Ciper", "Češka", "Nemčija", "Danska", "Estonija", "Grčija", "Španija", "Finska", "Francija", "Hrvaška", "Madžarska", "Irska", "Italija", "Litva", "Luksemburg", "Latvija", "Malta", "Nizozemska", "Poljska", "Portugalska", "Romunija", "Švedska", "Slovenija", "Slovaška"]
+		},
+		{
+			"lang": "SV",
+			"label": ["Österrike", "Belgien", "Bulgarien", "Cypern", "Tjeckien", "Tyskland", "Danmark", "Estland", "Grekland", "Spanien", "Finland", "Frankrike", "Kroatien", "Ungern", "Irland", "Italien", "Litauen", "Luxemburg", "Lettland", "Malta", "Nederländerna", "Polen", "Portugal", "Rumänien", "Sverige", "Slovenien", "Slovakien"]
+		}
+	]
+}
