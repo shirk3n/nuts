@@ -96,7 +96,7 @@ def create_json_kml():
     # Creation of the final json
     json_final = {}
     list_feature = []
-
+    tmp = {}
     json_final['type'] = 'FeatureCollection'
 
     for f in files_xlsx:
@@ -110,7 +110,7 @@ def create_json_kml():
             nuts_names_json = data_geojson(key_excel)
             for key_json, value_json in nuts_names_json.items():
                 if key_json == key_excel:
-                    json_final['features'] = {'type': 'Feature', 'properties':
+                    tmp['features'] = {'type': 'Feature', 'properties':
                         {"prefix": value_json['prefix'],
                          "country": iter_excel_item(key_excel, value_excel),
                          "city": value_json['city'],
@@ -121,7 +121,7 @@ def create_json_kml():
                                               }
                                               }
 
-                    features = json_final.get('features')
+                    features = tmp.get('features')
                     if (features):
                         list_feature.append(features)
 
@@ -131,7 +131,7 @@ def create_json_kml():
         json_dump = json.dumps(json_final, indent = 2,ensure_ascii=False)
 
         # Writing to a final_result.json
-        with open ("data/FIN AL_R ESULT.json","w",encoding='utf8') as outfile:
+        with open ("data/FINAL_RESULT_OLD.json","w",encoding='utf8') as outfile:
             outfile.write(json_dump)
 
 
